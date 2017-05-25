@@ -1,3 +1,5 @@
 Added this file via github (as well as new.txt) ** added this text after creating branch -0005.
 
 Added this line in the -0005 branch.
+
+Added this line as step 1 in -0006.
