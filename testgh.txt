@@ -1,3 +1,12 @@
 Created this file on github.
 
+
 After adding text in the TEST-0001 branched, added this line via the github editor.
+
+Checkout out as TEST-0001 and added this line.
+
+Checked out master. Viewed file. It had the above line in it.
+
+Checkout out -0001 and added this line.
+
+`added text to original file before adding more via github
