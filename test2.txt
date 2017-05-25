@@ -1,4 +1,7 @@
-1. TEST 2 - Line added on github to start file.
-2. Github editor - added this line 2.
-2. Adding line in branch and will commit.
-3. Added this line after adding line 2 Github.
+1. On branch -0003 I deleted all lines of text
+from this file and added numbers through 5.
+2
+3
+4
+5
+
