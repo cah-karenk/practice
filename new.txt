@@ -1,1 +1,3 @@
 Added this new file to github after creating branch -0003.
+
+Making changes to this file on github while modifying new2.txt on -0006.
