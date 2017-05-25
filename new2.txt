@@ -5,3 +5,5 @@ Added this line in the -0005 branch.
 Added this line as step 1 in -0006
 
 Added this line as step 2 in -0006.
+
+Added this line after fetch in -0006.
