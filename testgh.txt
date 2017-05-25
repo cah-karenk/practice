@@ -9,4 +9,4 @@ Checked out master. Viewed file. It had the above line in it.
 
 Checkout out -0001 and added this line.
 
-`added text to original file before adding more via github
+added text to original file before adding more via github
